@@ -21,7 +21,7 @@ Xamarin.Forms has preview support for GTK# apps. GTK# is a graphical user interf
 ### **Windows**
 
 1. Download the zip from Windows 
-2. Install the certificate (".cer" file) according the instructions detailed on [**Install Certificate**](/docs/Windows_Install_Certificate.md) section.
+2. Install the certificate (".cer" file) according the instructions detailed on [**Install Certificate**](docs/Windows_Install_Certificate.md) section.
 3. Install Snip Insights by double click over the .appx package file
 
 ### **Linux**
@@ -78,7 +78,7 @@ Remember to Click the **Save** button after entering all the keys.
 Congratulations! You should now have a fully working application to get started. Have fun testing the project and thank you for your contribution! 
 ### Using the code:
 
-For detailed instructions go to see [Using the code](/docs/Using_The_Code.md).  
+For detailed instructions go to see [Using the code](docs/Using_The_Code.md).  
     
 ## Try out the latest builds (ready to use):
 In the Release tab of this project you have available a ready to use installer for each platform or just navigate this link:

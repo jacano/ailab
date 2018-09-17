@@ -80,6 +80,9 @@ Congratulations! You should now have a fully working application to get started.
 
 For detailed instructions go to see [Using the code](/docs/Using_The_Code.md).  
     
+## Try out the latest builds (ready to use):
+In the Release tab of this project you have available a ready to use installer for each platform or just navigate this link:
+https://github.com/jacano/ailab/releases/latest/
 
 ## Licenses
 
